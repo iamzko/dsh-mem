@@ -1,0 +1,47 @@
+{
+  "format": "mnemonpack",
+  "version": 1,
+  "scope": "full",
+  "exportedAt": "2026-10-27T03:25:47.600Z",
+  "source": {
+    "plugin": "dsh-mnemon",
+    "pluginVersion": "0.5.35"
+  },
+  "components": [
+    "runtime",
+    "documents",
+    "memory-spaces"
+  ],
+  "summary": [
+    {
+      "component": "runtime",
+      "files": 3,
+      "bytes": 36,
+      "items": 0
+    },
+    {
+      "component": "documents",
+      "files": 1,
+      "bytes": 38,
+      "items": 0
+    },
+    {
+      "component": "memory-spaces",
+      "files": 1,
+      "bytes": 35,
+      "items": 0
+    }
+  ],
+  "sync": {
+    "channel": "git",
+    "branch": "mnemon-sync",
+    "subdir": "mnemon/",
+    "pushedAt": "2026-10-27T03:25:47.600Z",
+    "machine": {
+      "id": "d706e83b-9090-4f95-bbcc-906ac0e49014",
+      "label": "kai-legion",
+      "createdAt": "2026-10-27T03:13:12.646Z"
+    },
+    "tombstones": []
+  }
+}
