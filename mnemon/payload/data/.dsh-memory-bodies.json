@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "bodies": []
+  "bodies": [
+    {
+      "id": "default",
+      "name": "本机技能与 Agent 工具链环境",
+      "description": "本机（kai 的机器）上自建技能、CLI 包装器与 Agent 工具链的环境事实：安装位置、软链关系、调用方式与已知坑（如 PATH 缺 ~/.local/bin）。当需要调用或排查本机自定义技能/脚本时召回。",
+      "active": true,
+      "createdAt": "2026-11-10T06:06:40.310Z",
+      "updatedAt": "2026-11-10T06:06:48.235Z"
+    }
+  ]
 }

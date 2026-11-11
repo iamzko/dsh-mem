@@ -2,10 +2,10 @@
   "format": "mnemonpack",
   "version": 1,
   "scope": "full",
-  "exportedAt": "2026-10-27T03:25:47.600Z",
+  "exportedAt": "2026-11-11T02:37:23.281Z",
   "source": {
     "plugin": "dsh-mnemon",
-    "pluginVersion": "0.5.35"
+    "pluginVersion": "0.5.42"
   },
   "components": [
     "runtime",
@@ -16,8 +16,8 @@
     {
       "component": "runtime",
       "files": 3,
-      "bytes": 36,
-      "items": 0
+      "bytes": 13316,
+      "items": 11
     },
     {
       "component": "documents",
@@ -27,20 +27,20 @@
     },
     {
       "component": "memory-spaces",
-      "files": 1,
-      "bytes": 35,
-      "items": 0
+      "files": 2,
+      "bytes": 94721,
+      "items": 1
     }
   ],
   "sync": {
     "channel": "git",
     "branch": "mnemon-sync",
     "subdir": "mnemon/",
-    "pushedAt": "2026-10-27T03:25:47.600Z",
+    "pushedAt": "2026-11-11T02:37:23.281Z",
     "machine": {
-      "id": "d706e83b-9090-4f95-bbcc-906ac0e49014",
+      "id": "bb580d5e-e91e-4641-9c24-a3919f7ea1ec",
       "label": "kai-legion",
-      "createdAt": "2026-10-27T03:13:12.646Z"
+      "createdAt": "2026-10-28T05:40:01.605Z"
     },
     "tombstones": []
   }

@@ -1,10 +1,11 @@
 {
   "algorithm": "sha256",
   "files": {
-    "payload/runtime/memories.json": "7c1051f6e2bc3943b7c1dbe4da229694455681b8875a346c99279e555edb733f",
+    "payload/runtime/memories.json": "2cd9fa80e9a7fef19a48c8c5ae1275cb210bc5d8098e4a221cbeddf92aebff2b",
     "payload/runtime/USER.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "payload/runtime/MEMORY.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "payload/runtime/MEMORY.md": "c5ebc7bca318080689fe7464147b19d751aa6bda93b1146bc3cbcf9e92420eed",
     "payload/documents/index.json": "02dbd87a6d87bb3eb0cf2d22a87efdf8dd323affa7668abf0720108a5fee366c",
-    "payload/data/.dsh-memory-bodies.json": "dc6020b75bab2ed6109193aea9c3427c22d9d2b6edd223c4c8c6cd87ad0c67dd"
+    "payload/data/.dsh-memory-bodies.json": "764452c45f18de538591c71b918424abdbf8afdc2cb8a0145698c922c640dcbf",
+    "payload/data/default/mnemon.db": "4347e224f325ebb4f0050b559786c5072a4c65e4b84e37dbe8c5ba7483111488"
   }
 }
